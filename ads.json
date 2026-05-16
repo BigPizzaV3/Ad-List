@@ -1,7 +1,16 @@
 {
   "version": 1,
   "updated_at": "2026-05-14",
-  "ads": [
+  "ads": [   
+    {
+      "id": "jojocode-codex-relay",
+      "type": "sponsor",
+      "title": "JOJO Code｜Codex++ 官方中转站",
+      "description": "1元5刀 Pro/Plus 号池，Codex++官方中转站 UP主推荐",
+      "url": "http://jojocode.com/",
+      "expires_at": "2029-06-15",
+      "highlights": ["1元5刀", "超稳定", "高缓存命中", "Pro/Plus 号池", "24h维护"]
+    },
     {
       "id": "rawchat-codex-relay",
       "type": "sponsor",
