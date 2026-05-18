@@ -10,13 +10,23 @@
       "url": "http://jojocode.com/",
       "expires_at": "2029-06-15",
       "highlights": [ "超稳定", "高缓存命中", "Pro/Plus 号池", "24h维护"]
-    },    {
+    },     
+    {
       "id": "0029-token-bridge",
+      "type": "sponsor",
+      "title": "PackyCode",
+      "description": "稳定可靠 服务及时 价格优惠",
+      "url": "https://www.packyapi.com/register?aff=huangmo",
+      "expires_at": "2026-06-18",
+      "highlights": [ "TOKEN 中转", "低延迟高可用", "7×24 小时技术支持"]
+    },
+    {
+      "id": "0055-token-bridge",
       "type": "sponsor",
       "title": "Token云桥｜0029.org",
       "description": "专业 AI 密钥 TOKEN 中转站，提供 ChatGPT、Claude、Gemini、Codex、GPT-5 等 API 密钥代购、代充、中转与稳定调用服务。",
       "url": "https://www.0029.org/?promo=AFF11F",
-      "expires_at": "2027-05-14",
+      "expires_at": "2026-05-18",
       "highlights": ["AI 密钥代购", "TOKEN 中转", "低延迟高可用", "订单可追踪", "7×24 小时技术支持"]
     },
     {
@@ -27,8 +37,9 @@
       "url": "https://rawchat.cn",
       "expires_at": "2026-06-15",
       "highlights": ["支持包月套餐", "低倍率调用", "高缓存命中", "Pro/Plus 号池", "全天专人维护"]
-    }  ,{
-      "id": "0029-token-bridge",
+    }  
+    ,{
+      "id": "0021-token-bridge",
       "type": "normal",
       "title": "广告位",
       "description": "",
