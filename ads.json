@@ -30,15 +30,6 @@
       "highlights": ["AI 密钥代购", "TOKEN 中转", "低延迟高可用", "订单可追踪", "7×24 小时技术支持"]
     },
     {
-      "id": "rawchat-codex-relay",
-      "type": "sponsor",
-      "title": "RawChat｜Codex 中转站",
-      "description": "老牌中转站，支持包月套餐。低倍率调用，高缓存命中，Pro/Plus 号池，全天专人维护。",
-      "url": "https://rawchat.cn",
-      "expires_at": "2026-06-15",
-      "highlights": ["支持包月套餐", "低倍率调用", "高缓存命中", "Pro/Plus 号池", "全天专人维护"]
-    },
-    {
       "id": "apikey-fun-ai-relay",
       "type": "sponsor",
       "title": "APIKEY.FUN",
@@ -46,6 +37,15 @@
       "url": "https://apikey.fun/register?aff=CODEX",
       "expires_at": "2026-06-22",
       "highlights": ["Claude / OpenAI / Gemini", "低至官方 7%", "稳定中转", "永久 95 折优惠"]
+    },
+    {
+      "id": "rawchat-codex-relay",
+      "type": "sponsor",
+      "title": "RawChat｜Codex 中转站",
+      "description": "老牌中转站，支持包月套餐。低倍率调用，高缓存命中，Pro/Plus 号池，全天专人维护。",
+      "url": "https://rawchat.cn",
+      "expires_at": "2026-06-15",
+      "highlights": ["支持包月套餐", "低倍率调用", "高缓存命中", "Pro/Plus 号池", "全天专人维护"]
     },
     {
       "id": "runapi-openrouter-alternative",
