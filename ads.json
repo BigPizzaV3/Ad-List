@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-05-14",
+  "updated_at": "2026-05-22",
   "ads": [   
     {
       "id": "jojocode-codex-relay",
@@ -37,6 +37,24 @@
       "url": "https://rawchat.cn",
       "expires_at": "2026-06-15",
       "highlights": ["支持包月套餐", "低倍率调用", "高缓存命中", "Pro/Plus 号池", "全天专人维护"]
+    },
+    {
+      "id": "runapi-openrouter-alternative",
+      "type": "sponsor",
+      "title": "RunAPI",
+      "description": "高效稳定的 API OpenRouter 平替平台，一个 API Key 即可访问 OpenAI、Claude、Gemini、DeepSeek、Grok 等 150+ 主流模型，低至 1 折，兼容 Claude Code、OpenClaw 等工具。",
+      "url": "https://runapi.co/register?aff=AWJq",
+      "expires_at": "2026-06-22",
+      "highlights": ["OpenRouter 平替", "150+ 主流模型", "低至 1 折", "兼容 Claude Code", "高稳定性"]
+    },
+    {
+      "id": "apikey-fun-ai-relay",
+      "type": "sponsor",
+      "title": "APIKEY.FUN",
+      "description": "开放、稳定、高性价比的全球主流大模型 AI 中转站，支持 Claude、OpenAI、Gemini 等热门模型 API 中转，价格低至官方原价 7%，专属链接注册可享最高充值永久 95 折优惠。",
+      "url": "https://apikey.fun/register?aff=CODEX",
+      "expires_at": "2026-06-22",
+      "highlights": ["Claude / OpenAI / Gemini", "低至官方 7%", "稳定中转", "永久 95 折优惠"]
     }  
     ,{
       "id": "0021-token-bridge",
