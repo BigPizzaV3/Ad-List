@@ -39,15 +39,6 @@
       "highlights": ["支持包月套餐", "低倍率调用", "高缓存命中", "Pro/Plus 号池", "全天专人维护"]
     },
     {
-      "id": "runapi-openrouter-alternative",
-      "type": "sponsor",
-      "title": "RunAPI",
-      "description": "高效稳定的 API OpenRouter 平替平台，一个 API Key 即可访问 OpenAI、Claude、Gemini、DeepSeek、Grok 等 150+ 主流模型，低至 1 折，兼容 Claude Code、OpenClaw 等工具。",
-      "url": "https://runapi.co/register?aff=AWJq",
-      "expires_at": "2026-06-22",
-      "highlights": ["OpenRouter 平替", "150+ 主流模型", "低至 1 折", "兼容 Claude Code", "高稳定性"]
-    },
-    {
       "id": "apikey-fun-ai-relay",
       "type": "sponsor",
       "title": "APIKEY.FUN",
@@ -55,6 +46,15 @@
       "url": "https://apikey.fun/register?aff=CODEX",
       "expires_at": "2026-06-22",
       "highlights": ["Claude / OpenAI / Gemini", "低至官方 7%", "稳定中转", "永久 95 折优惠"]
+    },
+    {
+      "id": "runapi-openrouter-alternative",
+      "type": "sponsor",
+      "title": "RunAPI",
+      "description": "高效稳定的 API OpenRouter 平替平台，一个 API Key 即可访问 OpenAI、Claude、Gemini、DeepSeek、Grok 等 150+ 主流模型，低至 1 折，兼容 Claude Code、OpenClaw 等工具。",
+      "url": "https://runapi.co/register?aff=AWJq",
+      "expires_at": "2026-06-22",
+      "highlights": ["OpenRouter 平替", "150+ 主流模型", "低至 1 折", "兼容 Claude Code", "高稳定性"]
     }  
     ,{
       "id": "0021-token-bridge",
