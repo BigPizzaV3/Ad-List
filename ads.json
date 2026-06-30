@@ -3,15 +3,6 @@
   "updated_at": "2026-06-30",
   "ads": [   
     {
-      "id": "volcengine-ark-agent-plan",
-      "type": "sponsor",
-      "title": "火山引擎｜方舟 Agent Plan",
-      "description": "感谢火山引擎赞助 Codex++。方舟 Agent Plan 集成 Doubao-Seed、Doubao-Seedance、Doubao-Seedream 等字节跳动自研模型，覆盖文本、代码、图像、视频等多模态任务，深度支持 Agent 框架与 AI 编程工具。",
-      "url": "https://dis.chatdesks.cn/chatdesk/hsyqCodexPlusPlus.html",
-      "expires_at": "2026-07-31",
-      "highlights": ["限时 2.5 折", "多模态模型", "Agent 编程工具", "Doubao-Seed", "BytePlus ModelArk"]
-    },
-    {
       "id": "jojocode-codex-relay",
       "type": "sponsor",
       "title": "JOJO Code｜Codex++ 官方中转站",
@@ -19,6 +10,15 @@
       "url": "https://jojocode.com/",
       "expires_at": "2029-06-15",
       "highlights": [ "价格划算", "稳定接入","7×24 小时技术支持", "高缓存命中","支持包月套餐" ]
+    },
+    {
+      "id": "volcengine-ark-agent-plan",
+      "type": "sponsor",
+      "title": "火山引擎｜方舟 Agent Plan",
+      "description": "方舟 Agent Plan 集成 Doubao-Seed、Doubao-Seedance、Doubao-Seedream 等字节跳动自研模型，覆盖文本、代码、图像、视频等多模态任务，深度支持 Agent 框架与 AI 编程工具。",
+      "url": "https://dis.chatdesks.cn/chatdesk/hsyqCodexPlusPlus.html",
+      "expires_at": "2026-07-31",
+      "highlights": ["限时 2.5 折", "多模态模型", "Agent 编程工具", "Doubao-Seed", "BytePlus ModelArk"]
     },     
     {
       "id": "0029-token-bridge",
