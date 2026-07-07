@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-06-30",
+  "updated_at": "2026-07-07",
   "ads": [   
     {
       "id": "jojocode-codex-relay",
@@ -8,6 +8,7 @@
       "title": "JOJO Code｜Codex++ 官方中转站",
       "description": "Codex++ 官方中转站，主打稳定接入和划算价格，支持 GPT-5.5、GPT-5.4、Claude Opus 4.8、Claude Opus 4.7、gpt-image-2 等模型与图像能力。",
       "url": "https://jojocode.com/",
+      "image": "https://cdn.jsdelivr.net/gh/BigPizzaV3/CodexPlusPlus@main/docs/images/sponsor-jojocode.png",
       "expires_at": "2029-06-15",
       "highlights": [ "价格划算", "稳定接入","7×24 小时技术支持", "高缓存命中","支持包月套餐" ]
     },
