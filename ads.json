@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-07-07",
+  "updated_at": "2026-07-09",
   "ads": [   
     {
       "id": "jojocode-codex-relay",
@@ -18,6 +18,7 @@
       "title": "火山引擎｜方舟 Agent Plan",
       "description": "方舟 Agent Plan 集成 Doubao-Seed、Doubao-Seedance、Doubao-Seedream 等字节跳动自研模型，覆盖文本、代码、图像、视频等多模态任务，深度支持 Agent 框架与 AI 编程工具。",
       "url": "https://dis.chatdesks.cn/chatdesk/hsyqCodexPlusPlus.html",
+      "image": "https://cdn.jsdelivr.net/gh/BigPizzaV3/CodexPlusPlus@main/docs/images/sponsor-volcengine.png",
       "expires_at": "2026-07-31",
       "highlights": ["限时 2.5 折", "多模态模型", "Agent 编程工具", "Doubao-Seed", "BytePlus ModelArk"]
     },     
@@ -27,6 +28,7 @@
       "title": "PackyCode",
       "description": "稳定可靠 服务及时 价格优惠",
       "url": "https://www.packyapi.com/register?aff=huangmo",
+      "image": "https://cdn.jsdelivr.net/gh/BigPizzaV3/CodexPlusPlus@main/docs/images/sponsor-packycode.png",
       "expires_at": "2026-06-18",
       "highlights": [ "TOKEN 中转", "低延迟高可用", "7×24 小时技术支持"]
     },
@@ -36,6 +38,7 @@
       "title": "Token云桥｜0029.org",
       "description": "专业 AI 密钥 TOKEN 中转站，提供 ChatGPT、Claude、Gemini、Codex、GPT-5 等 API 密钥代购、代充、中转与稳定调用服务。",
       "url": "https://www.0029.org/?promo=AFF11F",
+      "image": "https://cdn.jsdelivr.net/gh/BigPizzaV3/CodexPlusPlus@main/docs/images/sponsor-0029.svg",
       "expires_at": "2026-06-18",
       "highlights": ["AI 密钥代购", "TOKEN 中转", "低延迟高可用", "订单可追踪", "7×24 小时技术支持"]
     },
@@ -45,6 +48,7 @@
       "title": "APIKEY.FUN",
       "description": "开放、稳定、高性价比的全球主流大模型 AI 中转站，支持 Claude、OpenAI、Gemini 等热门模型 API 中转，价格低至官方原价 7%，专属链接注册可享最高充值永久 95 折优惠。",
       "url": "https://apikey.fun/register?aff=CODEX",
+      "image": "https://cdn.jsdelivr.net/gh/BigPizzaV3/CodexPlusPlus@main/docs/images/sponsor-apikey-fun.png",
       "expires_at": "2026-08-22",
       "highlights": ["Claude / OpenAI / Gemini", "低至官方 7%", "稳定中转", "永久 95 折优惠"]
     },
@@ -54,6 +58,7 @@
       "title": "RawChat｜Codex 中转站",
       "description": "老牌中转站，支持包月套餐。低倍率调用，高缓存命中，Pro/Plus 号池，全天专人维护。",
       "url": "https://rawchat.cn",
+      "image": "https://cdn.jsdelivr.net/gh/BigPizzaV3/CodexPlusPlus@main/docs/images/sponsor-rawchat.svg",
       "expires_at": "2026-06-15",
       "highlights": ["支持包月套餐", "低倍率调用", "高缓存命中", "Pro/Plus 号池", "全天专人维护"]
     },
@@ -63,6 +68,7 @@
       "title": "RunAPI",
       "description": "高效稳定的 API OpenRouter 平替平台，一个 API Key 即可访问 OpenAI、Claude、Gemini、DeepSeek、Grok 等 150+ 主流模型，低至 1 折，兼容 Claude Code、OpenClaw 等工具。",
       "url": "https://runapi.co/register?aff=AWJq",
+      "image": "https://cdn.jsdelivr.net/gh/BigPizzaV3/CodexPlusPlus@main/docs/images/sponsor-runapi.png",
       "expires_at": "2026-06-22",
       "highlights": ["OpenRouter 平替", "150+ 主流模型", "低至 1 折", "兼容 Claude Code", "高稳定性"]
     }  
