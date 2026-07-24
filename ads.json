@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-07-11",
+  "updated_at": "2026-07-25",
   "ads": [   
     {
       "id": "jojocode-codex-relay",
@@ -63,16 +63,6 @@
       "highlights": ["支持包月套餐", "低倍率调用", "高缓存命中", "Pro/Plus 号池", "全天专人维护"]
     },
     {
-      "id": "runapi-openrouter-alternative",
-      "type": "sponsor",
-      "title": "RunAPI",
-      "description": "高效稳定的 API OpenRouter 平替平台，一个 API Key 即可访问 OpenAI、Claude、Gemini、DeepSeek、Grok 等 150+ 主流模型，低至 1 折，兼容 Claude Code、OpenClaw 等工具。",
-      "url": "https://runapi.co/register?aff=AWJq",
-      "image": "https://cdn.jsdelivr.net/gh/BigPizzaV3/CodexPlusPlus@main/docs/images/sponsor-runapi.png",
-      "expires_at": "2026-06-22",
-      "highlights": ["OpenRouter 平替", "150+ 主流模型", "低至 1 折", "兼容 Claude Code", "高稳定性"]
-    },
-    {
       "id": "0021-token-bridge",
       "type": "normal",
       "title": "广告位",
@@ -90,6 +80,16 @@
       "image": "https://cdn.jsdelivr.net/gh/BigPizzaV3/CodexPlusPlus@main/docs/images/sponsor-baikewei-ai.jpg",
       "expires_at": "2026-08-11",
       "highlights": ["Claude / OpenAI / Gemini", "Codex / Claude Code", "稳定中转", "免费额度", "开发者 API", "AI 生图工具"]
+    },
+    {
+      "id": "deepkey-api-key",
+      "type": "sponsor",
+      "title": "deepkey｜API KEY",
+      "description": "deepkey 起初只是连接顶级算力的上游供应商，凭借稳定低价的接口被学生群体发现并口口相传。随着开发者与学子的涌入，这里不再只是 API 的搬运工，而是共同探讨提示词工程、分享创新应用的温暖社区。从工具到伙伴，deepkey 见证了无数灵感的诞生与落地。",
+      "url": "https://deepkey.top/register?aff=DNVc",
+      "image": "https://cdn.jsdelivr.net/gh/BigPizzaV3/CodexPlusPlus@main/docs/images/sponsor-deepkey.png",
+      "expires_at": "2026-08-25",
+      "highlights": ["稳定低价", "提示词工程社区", "注册进群享福利"]
     }
   ]
 }
