@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-02",
+  "updated_at": "2026-08-06",
   "ads": [   
     {
       "id": "jojocode-codex-relay",
@@ -13,6 +13,16 @@
       "highlights": [ "价格划算", "稳定接入","7×24 小时技术支持", "高缓存命中","支持包月套餐" ]
     },
     {
+      "id": "0029-token-bridge",
+      "type": "sponsor",
+      "title": "PackyCode",
+      "description": "稳定可靠 服务及时 价格优惠",
+      "url": "https://www.packyapi.com/register?aff=huangmo",
+      "image": "https://cdn.jsdelivr.net/gh/BigPizzaV3/CodexPlusPlus@main/docs/images/sponsor-packycode.png",
+      "expires_at": "2026-08-18",
+      "highlights": [ "TOKEN 中转", "低延迟高可用", "7×24 小时技术支持"]
+    },
+    {
       "id": "volcengine-ark-agent-plan",
       "type": "sponsor",
       "title": "火山引擎｜方舟 Agent Plan",
@@ -21,16 +31,6 @@
       "image": "https://cdn.jsdelivr.net/gh/BigPizzaV3/CodexPlusPlus@main/docs/images/sponsor-volcengine.png",
       "expires_at": "2026-07-31",
       "highlights": ["限时 2.5 折", "多模态模型", "Agent 编程工具", "Doubao-Seed", "BytePlus ModelArk"]
-    },     
-    {
-      "id": "0029-token-bridge",
-      "type": "sponsor",
-      "title": "PackyCode",
-      "description": "稳定可靠 服务及时 价格优惠",
-      "url": "https://www.packyapi.com/register?aff=huangmo",
-      "image": "https://cdn.jsdelivr.net/gh/BigPizzaV3/CodexPlusPlus@main/docs/images/sponsor-packycode.png",
-      "expires_at": "2026-06-18",
-      "highlights": [ "TOKEN 中转", "低延迟高可用", "7×24 小时技术支持"]
     },
     {
       "id": "0055-token-bridge",
