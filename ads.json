@@ -3,6 +3,15 @@
   "updated_at": "2026-08-10",
   "ads": [   
     {
+      "id": "grooroute",
+      "type": "sponsor",
+      "title": "GrooRoute｜官方原模型 API",
+      "description": "GrooRoute 提供 Claude 与 GPT 全系官方原模型，一行配置即可接入 Claude Code、Codex 或直接调用 API，官方承诺不掺假、永久保真。限时活动：充值 50 美元送 50 美元，注册后充值并联系客服获取优惠。",
+      "url": "https://grooroute.com/register?aff=2B3KJR5SRNTX",
+      "image": "https://raw.githubusercontent.com/BigPizzaV3/Ad-List/main/grooroute-lockup.png",
+      "highlights": ["Claude / GPT 全系官方模型", "一行配置接入", "充 50 送 50", "永久保真"]
+    },
+    {
       "id": "jojocode-codex-relay",
       "type": "sponsor",
       "title": "JOJO Code｜项目赞助商",
