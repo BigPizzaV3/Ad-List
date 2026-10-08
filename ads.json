@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "updated_at": "2026-10-07",
+  "updated_at": "2026-10-08",
   "top_ad": {
     "id": "jojocode-codex-relay",
     "type": "sponsor",
     "title": "JOJO Code｜项目赞助商",
-    "description": "JOJO Code 提供 GPT、Claude 与 GPT 生图 API 接入，支持 Codex、Claude Code 等常用工具；按量与包月方案可选，具体可用模型以平台实时列表为准。",
+    "description": "JOJO Code 提供 GPT-6.1、GPT-6、Fable 5.1、Claude Opus 5.5 等模型与图像 API 接入，支持 Codex、Claude Code 等常用工具；按量与包月方案可选，具体可用模型以平台实时列表为准。",
     "url": "https://jojocode.com/",
-    "image": "https://cdn.jsdelivr.net/gh/BigPizzaV3/CodexPlusPlus@main/docs/images/sponsor-jojocode.png",
+    "image": "https://raw.githubusercontent.com/BigPizzaV3/Ad-List/main/jojocode-banner-v3.png",
     "expires_at": "2029-06-15",
     "highlights": [ "价格划算", "稳定接入", "7×24 小时技术支持", "高缓存命中", "支持包月套餐" ]
   },
@@ -16,9 +16,9 @@
       "id": "jojocode-codex-relay",
       "type": "sponsor",
       "title": "JOJO Code｜项目赞助商",
-      "description": "JOJO Code 提供 GPT、Claude 与 GPT 生图 API 接入，支持 Codex、Claude Code 等常用工具；按量与包月方案可选，具体可用模型以平台实时列表为准。",
+      "description": "JOJO Code 提供 GPT-6.1、GPT-6、Fable 5.1、Claude Opus 5.5 等模型与图像 API 接入，支持 Codex、Claude Code 等常用工具；按量与包月方案可选，具体可用模型以平台实时列表为准。",
       "url": "https://jojocode.com/",
-      "image": "https://cdn.jsdelivr.net/gh/BigPizzaV3/CodexPlusPlus@main/docs/images/sponsor-jojocode.png",
+      "image": "https://raw.githubusercontent.com/BigPizzaV3/Ad-List/main/jojocode-banner-v3.png",
       "expires_at": "2029-06-15",
       "highlights": [ "价格划算", "稳定接入","7×24 小时技术支持", "高缓存命中","支持包月套餐" ]
     },
