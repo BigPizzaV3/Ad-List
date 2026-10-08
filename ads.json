@@ -4,8 +4,8 @@
   "top_ad": {
     "id": "jojocode-codex-relay",
     "type": "sponsor",
-    "title": "JOJO Code｜项目赞助商",
-    "description": "JOJO Code 提供 GPT-6.1、GPT-6、Fable 5.1、Claude Opus 5.5 等模型与图像 API 接入，支持 Codex、Claude Code 等常用工具；按量与包月方案可选，具体可用模型以平台实时列表为准。",
+    "title": "JOJO Code",
+    "description": "JOJO Code 提供稳定、价格合理的 API 中转服务，支持 GPT-6.1、GPT-6、Fable 5.1、Claude Opus 5.5 等模型与图像能力，适合日常开发、团队协作和长期项目工作流。",
     "url": "https://jojocode.com/",
     "image": "https://raw.githubusercontent.com/BigPizzaV3/Ad-List/main/jojocode-banner-v3.png",
     "expires_at": "2029-06-15",
@@ -15,8 +15,8 @@
     {
       "id": "jojocode-codex-relay",
       "type": "sponsor",
-      "title": "JOJO Code｜项目赞助商",
-      "description": "JOJO Code 提供 GPT-6.1、GPT-6、Fable 5.1、Claude Opus 5.5 等模型与图像 API 接入，支持 Codex、Claude Code 等常用工具；按量与包月方案可选，具体可用模型以平台实时列表为准。",
+      "title": "JOJO Code",
+      "description": "JOJO Code 提供稳定、价格合理的 API 中转服务，支持 GPT-6.1、GPT-6、Fable 5.1、Claude Opus 5.5 等模型与图像能力，适合日常开发、团队协作和长期项目工作流。",
       "url": "https://jojocode.com/",
       "image": "https://raw.githubusercontent.com/BigPizzaV3/Ad-List/main/jojocode-banner-v3.png",
       "expires_at": "2029-06-15",
@@ -25,7 +25,7 @@
     {
       "id": "grooroute",
       "type": "sponsor",
-      "title": "GrooRoute｜官方原模型 API",
+      "title": "GrooRoute",
       "description": "GrooRoute 提供 Claude 与 GPT 全系官方原模型，一行配置即可接入 Claude Code、Codex 或直接调用 API，官方承诺不掺假、永久保真。限时活动：充值 50 美元送 50 美元，注册后充值并联系客服获取优惠。",
       "url": "https://grooroute.com/register?aff=2B3KJR5SRNTX",
       "image": "https://raw.githubusercontent.com/BigPizzaV3/Ad-List/main/grooroute-lockup.png",
@@ -34,7 +34,7 @@
     {
       "id": "volcengine-ark-agent-plan",
       "type": "sponsor",
-      "title": "火山引擎｜方舟 Agent Plan",
+      "title": "火山引擎",
       "description": "方舟 Agent Plan 集成 Doubao-Seed、Doubao-Seedance、Doubao-Seedream 等字节跳动自研模型，覆盖文本、代码、图像、视频等多模态任务，深度支持 Agent 框架与 AI 编程工具。",
       "url": "https://dis.chatdesks.cn/chatdesk/hsyqCodexPlusPlus.html",
       "image": "https://cdn.jsdelivr.net/gh/BigPizzaV3/CodexPlusPlus@main/docs/images/sponsor-volcengine.png",
