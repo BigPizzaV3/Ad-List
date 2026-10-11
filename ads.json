@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-08",
+  "updated_at": "2026-10-11",
   "top_ad": {
     "id": "jojocode-codex-relay",
     "type": "sponsor",
@@ -29,6 +29,7 @@
       "description": "GrooRoute 提供 Claude 与 GPT 全系官方原模型，一行配置即可接入 Claude Code、Codex 或直接调用 API，官方承诺不掺假、永久保真。限时活动：充值 50 美元送 50 美元，注册后充值并联系客服获取优惠。",
       "url": "https://grooroute.com/register?aff=2B3KJR5SRNTX",
       "image": "https://raw.githubusercontent.com/BigPizzaV3/Ad-List/main/grooroute-lockup.png",
+      "expires_at": "2026-10-15",
       "highlights": ["Claude / GPT 全系官方模型", "一行配置接入", "充 50 送 50", "永久保真"]
     },
     {
@@ -50,6 +51,16 @@
       "image": "https://cdn.jsdelivr.net/gh/BigPizzaV3/CodexPlusPlus@main/docs/images/sponsor-apikey-fun.png",
       "expires_at": "2026-11-22",
       "highlights": ["Claude / OpenAI / Gemini", "低至官方 7%", "稳定中转", "永久 95 折优惠"]
+    },
+    {
+      "id": "baikewei-ai",
+      "type": "sponsor",
+      "title": "百可为AI",
+      "description": "百可为AI 是面向开发者、团队和 AI 工具用户的一站式大模型 API 服务平台，支持 Claude、OpenAI、Gemini、Codex 等主流模型能力接入。平台提供稳定中转、灵活计费、用量统计、余额管理和多场景 API 调用能力，适合 Claude Code、Codex、AI 生图、自动化脚本和各类智能应用长期使用。新用户注册可领取免费额度，开发者可快速接入、即开即用，让 AI 能力更稳定、更高效、更省心。",
+      "url": "https://cn.hb-api.online/register?aff=8KA2ZKWNHND8",
+      "image": "https://cdn.jsdelivr.net/gh/BigPizzaV3/CodexPlusPlus@main/docs/images/sponsor-baikewei-ai.jpg",
+      "expires_at": "2026-11-13",
+      "highlights": ["Claude / OpenAI / Gemini", "Codex / Claude Code", "稳定中转", "免费额度", "开发者 API", "AI 生图工具"]
     },
     {
       "id": "0021-token-bridge",
