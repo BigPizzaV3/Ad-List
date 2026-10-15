@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-11",
+  "updated_at": "2026-10-15",
   "top_ad": {
     "id": "jojocode-codex-relay",
     "type": "sponsor",
@@ -70,6 +70,24 @@
       "url": "",
       "expires_at": "2027-05-14",
       "highlights": ["V:DumpMem"]
+    },
+    {
+      "id": "tokenmy-ai-gateway",
+      "type": "sponsor",
+      "title": "TokenMy",
+      "description": "TokenMy 是面向开发者与团队的统一 AI 模型 API 网关，汇聚 OpenAI、Anthropic、Google、DeepSeek、字节跳动、Suno 等厂商的模型，覆盖 GPT、Claude、Gemini 等对话模型、GPT Image 生图模型、Seedance 与 Veo 视频模型及 Suno 音乐生成模型。一个 API Key 即可接入多类 AI 能力，配合按量计费、用量监控与账单查询，适合智能体开发、多模态应用与影音内容创作。",
+      "url": "https://agent.tokenmy.ai",
+      "image": "https://raw.githubusercontent.com/BigPizzaV3/Ad-List/main/tokenmy-logo.png",
+      "highlights": ["统一 AI 模型网关", "覆盖对话 / 生图 / 视频 / 音乐", "按量计费与用量监控", "支持代理与推广"]
+    },
+    {
+      "id": "apinebula-ai-relay",
+      "type": "sponsor",
+      "title": "APINEBULA",
+      "description": "APINEBULA 是银河录像局旗下的企业级 AI 聚合平台，聚合 Claude、GPT、Gemini 等主流满血模型，一个接口接入全球顶尖 AI 大模型，各大模型价格低至 1 折起，支持企业级高并发、正式合同、对公打款与开票服务，适合 AI 编程、Agent 开发、业务系统集成等多种场景。使用专属链接注册并在充值时填写「PLUSPLUS」优惠码可享九折优惠。",
+      "url": "https://apinebula.ai/ref/IiCBg1nu",
+      "image": "https://raw.githubusercontent.com/BigPizzaV3/Ad-List/main/apinebula-logo.png",
+      "highlights": ["Claude / GPT / Gemini 满血模型", "低至 1 折起", "企业级高并发", "对公打款与开票", "PLUSPLUS 码九折"]
     }
   ]
 }
