@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-15",
+  "updated_at": "2026-10-25",
   "top_ad": {
     "id": "jojocode-codex-relay",
     "type": "sponsor",
@@ -21,16 +21,6 @@
       "image": "https://raw.githubusercontent.com/BigPizzaV3/Ad-List/main/jojocode-banner-v3.png",
       "expires_at": "2029-06-15",
       "highlights": [ "价格划算", "稳定接入", "高缓存命中","支持包月套餐" ]
-    },
-    {
-      "id": "grooroute",
-      "type": "sponsor",
-      "title": "GrooRoute",
-      "description": "GrooRoute 提供 Claude 与 GPT 全系官方原模型，一行配置即可接入 Claude Code、Codex 或直接调用 API，官方承诺不掺假、永久保真。限时活动：充值 50 美元送 50 美元，注册后充值并联系客服获取优惠。",
-      "url": "https://grooroute.com/register?aff=2B3KJR5SRNTX",
-      "image": "https://raw.githubusercontent.com/BigPizzaV3/Ad-List/main/grooroute-lockup.png",
-      "expires_at": "2026-10-15",
-      "highlights": ["Claude / GPT 全系官方模型", "一行配置接入", "充 50 送 50", "永久保真"]
     },
     {
       "id": "runapi-openrouter-alternative",
