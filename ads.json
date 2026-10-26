@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-25",
+  "updated_at": "2026-10-26",
   "top_ad": {
     "id": "jojocode-codex-relay",
     "type": "sponsor",
@@ -61,6 +61,16 @@
       "image": "https://cdn.jsdelivr.net/gh/BigPizzaV3/CodexPlusPlus@main/docs/images/sponsor-baikewei-ai.jpg",
       "expires_at": "2026-11-13",
       "highlights": ["一站式接入", "稳定中转", "灵活计费"]
+    },
+    {
+      "id": "tokenmy-ai-gateway",
+      "type": "sponsor",
+      "title": "TokenMy",
+      "description": "TokenMy 是面向开发者与团队的统一 AI 模型 API 网关，汇聚 OpenAI、Anthropic、Google、DeepSeek、字节跳动、Suno 等厂商的模型，覆盖 GPT、Claude、Gemini 等对话模型、GPT Image 生图模型、Seedance 与 Veo 视频模型及 Suno 音乐生成模型。一个 API Key 即可接入多类 AI 能力，配合按量计费、用量监控与账单查询，适合智能体开发、多模态应用与影音内容创作。",
+      "url": "https://agent.tokenmy.ai",
+      "image": "https://raw.githubusercontent.com/BigPizzaV3/Ad-List/main/tokenmy-logo.png",
+      "expires_at": "2026-11-15",
+      "highlights": ["统一 AI 模型网关", "覆盖对话 / 生图 / 视频 / 音乐", "按量计费与用量监控", "支持代理与推广"]
     }
   ]
 }
