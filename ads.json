@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-26",
+  "updated_at": "2026-11-01",
   "top_ad": {
     "id": "jojocode-codex-relay",
     "type": "sponsor",
@@ -81,6 +81,16 @@
       "image": "https://raw.githubusercontent.com/BigPizzaV3/Ad-List/main/apinebula-logo.png",
       "expires_at": "2026-11-20",
       "highlights": ["Claude / GPT / Gemini 满血模型", "低至 1 折起", "企业级高并发", "对公打款与开票", "PLUSPLUS 码九折"]
+    },
+    {
+      "id": "dzhsmartai",
+      "type": "sponsor",
+      "title": "DZHsmartAI",
+      "description": "DZHsmartAI 量贩式中转站，专注服务开发者与企业：ChatGPT、Claude、Kimi、Grok、Gemini 等主流模型基本全覆盖，一个 API Key、一套兼容 OpenAI 的接口，改一行 base_url 就能自由切换，不用再分别注册、分别充值。通过专属链接注册即得 1 美元使用额度。",
+      "url": "https://dzhsmartai.com/register?promo=CODEXPLUSPLUS",
+      "image": "https://raw.githubusercontent.com/BigPizzaV3/Ad-List/main/dzhsmartai-logo.jpg",
+      "expires_at": "2026-12-01",
+      "highlights": ["量贩式定价", "主流模型全覆盖", "兼容 OpenAI 接口", "注册送 1 美元"]
     }
   ]
 }
