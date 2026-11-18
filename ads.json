@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-16",
+  "updated_at": "2026-11-19",
   "top_ad": {
     "id": "jojocode-codex-relay",
     "type": "sponsor",
@@ -91,6 +91,16 @@
       "image": "https://raw.githubusercontent.com/BigPizzaV3/Ad-List/main/dzhsmartai-logo.jpg",
       "expires_at": "2026-12-01",
       "highlights": ["量贩式定价", "主流模型全覆盖", "兼容 OpenAI 接口", "注册送 1 美元"]
+    },
+    {
+      "id": "vegaapi",
+      "type": "sponsor",
+      "title": "VegaAPI",
+      "description": "VegaAPI 提供稳定高速的 AI API 服务，一个 Key 接入 GPT、Claude、Gemini、Grok 等主流模型，兼容 OpenAI、Anthropic 和 Gemini 接口，按量计费，支持支付宝、微信充值，10 元起充。",
+      "url": "https://vegaapi.com/",
+      "image": "https://raw.githubusercontent.com/BigPizzaV3/Ad-List/main/vegaapi-logo.png",
+      "expires_at": "2027-03-18",
+      "highlights": ["GPT Plus 不降智", "一个 Key 多模型", "按量计费", "10 元起充"]
     }
   ]
 }
